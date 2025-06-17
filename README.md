@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Katleho!
 
-Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner. Here's a little bit about me:
+Welcome to my GitHub profile! I'm just a passionate developer, tech enthusiast, and i enjoy learning new concepts.
 
 
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning and exploring new technologies in software development and open-source contributions.
-- 💡 I enjoy solving complex problems, building innovative projects, and collaborating on open-source initiatives.
-- 🖤 I have a deep interest in programming, cybersecurity, and creative coding.
+-  I’m currently learning and exploring new technologies in software development and open-source contributions.
+-  I enjoy solving complex problems, building innovative projects, and collaborating on open-source initiatives.
+-  I have a deep interest in programming, cybersecurity, and creative coding.
 
 
 
@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 
 
 ## 🌐 Let's Connect!
-- **Instagram:** [@katleho_022](https://twitter.com/PathogenicKatt)
 - **LinkedIn:** ([https://linkedin.com/in/Katleho-Mofokeng](https://www.linkedin.com/in/katleho-mofokeng-231932250/)
 - **Website/Portfolio:** [PathogenicKatt.dev](https://PathogenicKatt.github.io)
 
