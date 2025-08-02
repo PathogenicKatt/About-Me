@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 -  I’m currently learning and exploring new technologies in software development and open-source contributions.
--  I have a deep interest in Artificial intelligences, cybersecurity, and creative coding.
+-  I have a deep interest in Artificial intelligences, and Cybersecurity.
 
 
 ## Technologies & Tools
